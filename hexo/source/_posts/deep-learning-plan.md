@@ -11,18 +11,18 @@ Pascal VOC, COCO
 
 ## CV Tasks
 ### MNIST
-#### Single digit:
+* Single digit
 [Kaggle practice](https://www.kaggle.com/c/digit-recognizer)
 
-#### Multiple digit:
+* Multiple digit
 SVHN Dataset, [Google paper](https://arxiv.org/pdf/1312.6082.pdf), [tf impl](https://github.com/potterhsu/SVHNClassifier)
 
 ### Face Detection
 
 ### Image Classification
-#### Single object
+* Single object
 
-#### Multiple object
+* Multiple object
 RCNN, YOLO
 [zhihu post](https://www.zhihu.com/question/35887527)
 [yolo zhihu intro](https://zhuanlan.zhihu.com/p/25167153?refer=xiaoleimlnote)
@@ -31,4 +31,4 @@ RCNN, YOLO
 
 ### Tracking
 
-### Reinforcement Learning
+## Reinforcement Learning
