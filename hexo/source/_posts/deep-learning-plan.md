@@ -31,4 +31,6 @@ RCNN, YOLO
 
 ### Tracking
 
+### GAN
+
 ## Reinforcement Learning
